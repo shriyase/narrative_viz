@@ -893,7 +893,7 @@ st.write(
 
 2. World Happiness Index from 2013-2023, https://www.kaggle.com/datasets/simonaasm/world-happiness-index-by-reports-2013-2023
 
-3. 'Swiss politics tipped to become more right-wing and less green', Swiss politics tipped to become more right-wing and less green
+3. 'Swiss politics tipped to become more right-wing and less green',  https://www.swissinfo.ch/eng/business/swiss-politics-set-to-lean-rightwards-and-become-less-green/48906794
 
 4. 'I lived in Finland for 3 years. Even as an international student, I got a taste of why it's the happiest country in the world.', Business Insider, https://www.businessinsider.com/why-finland-is-the-happiest-country-former-international-student-2024-3
 
