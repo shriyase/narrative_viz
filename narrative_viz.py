@@ -471,7 +471,6 @@ st.markdown(
 
 # %%
 import country_converter as coco
-import matplotlib.pyplot as plt
 from vega_datasets import data
 
 # map for the world happiness index for 2024
