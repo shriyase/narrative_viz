@@ -16,8 +16,10 @@ import json
 
 # %%
 st.title("What makes a population happy? Decoding the World Happiness Report")
+st.caption("A data-driven exploration by Shriya Ejanthker and Christopher Kok")
 st.write(
     """
+    \n
     The pursuit of happiness is a fundamental human goal, and understanding what makes a population truly happy is crucial for policymakers, organizations, and individuals alike. 
     Happiness can mean different things for different people. For some, financial security can give them happiness, while for others the ability to roam freely without any financial safety might be a more fulfilling lifestyle. 
     What makes people truly happy at a global scale? Is it something we can count or measure, or is our joy more of a vague, intangible feeling? The human experience cannot be measured on a common scale or summed into a definitive bracket. 
