@@ -885,3 +885,17 @@ If we learnt one thing by decoding the report, it is that happiness can indeed b
 By focusing on improving the key areas mentioned before, nations can not only enhance the well-being and happiness of their citizens but also build more resilient and prosperous communities. This understanding is crucial for anyone aiming to foster a happier, more cohesive society, from government officials and policy-makers to community leaders and active citizens.
 Have a happy day!"""
 )
+
+st.header("\nReferences")
+st.write(
+    """
+1. World Happiness Report 2024, https://worldhappiness.report/ed/2024/
+
+2. World Happiness Index from 2013-2023, https://www.kaggle.com/datasets/simonaasm/world-happiness-index-by-reports-2013-2023
+
+3. 'Swiss politics tipped to become more right-wing and less green', Swiss politics tipped to become more right-wing and less green
+
+4. 'I lived in Finland for 3 years. Even as an international student, I got a taste of why it's the happiest country in the world.', Business Insider, https://www.businessinsider.com/why-finland-is-the-happiest-country-former-international-student-2024-3
+
+"""
+)
