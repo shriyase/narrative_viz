@@ -8,12 +8,7 @@ import pandas as pd
 import numpy as np
 
 import altair as alt
-import matplotlib.pyplot as plt
 import streamlit as st
-
-from IPython.display import HTML
-
-import altair as alt
 import json
 
 # %% [markdown]
